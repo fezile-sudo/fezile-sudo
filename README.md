@@ -40,6 +40,7 @@ React Router
 Postman
 npm
 Visual Studio Code
+
 💻 Featured Projects
 
 1. FeyaPlan
