@@ -41,6 +41,7 @@ Postman
 npm
 Visual Studio Code
 💻 Featured Projects
+
 1. FeyaPlan
 
 A full-stack project and task management application featuring authentication, project management, task scheduling, dashboards, reports, and an interactive calendar.
@@ -49,6 +50,7 @@ Technologies: React, Node.js, Express.js, PostgreSQL, JWT.
 
 GitHub Repository
 Live Application
+
 2. FeyaTech
 
 A full-stack e-commerce application featuring product browsing, shopping cart management, wishlists, and checkout functionality.
@@ -57,6 +59,7 @@ Technologies: React, Node.js, Express.js, PostgreSQL, REST APIs.
 
 GitHub Repository
 Live Application
+
 3. Feya Clinix
 
 A clinic management application designed to manage patients, doctors, appointments, calendars, reports, and administrative operations.
@@ -65,6 +68,7 @@ Technologies: Angular, TypeScript, Angular Material, RxJS, REST APIs.
 
 GitHub Repository
 Live Application
+
 4. AltHealth
 
 A healthcare management application built with PHP and MySQL, featuring authentication, inventory management, database integration, and CRUD functionality.
@@ -105,7 +109,7 @@ Database design
 Full-stack application development
 🤝 Let's Connect
 LinkedIn: Connect with me
-Portfolio: 
+Portfolio: https://fezile-sudo.github.io/Portfolio/
 GitHub: @fezile-sudo
 
 I'm interested in opportunities where I can contribute to web development projects, continue growing as a developer, and build practical software solutions.
