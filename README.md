@@ -88,9 +88,13 @@ University of South Africa (UNISA) | 2019
 Professional Development
 
 Front-End JavaScript Frameworks: Angular – The Hong Kong University of Science and Technology
+
 Front-End Web Development with React – The Hong Kong University of Science and Technology
+
 Server-side Development with NodeJS, Express and MongoDB – The Hong Kong University of Science and Technology
+
 HTML, CSS, and Javascript for Web Developers – Johns Hopkins University
+
 Version Control with Git – Atlassian
 
 Courses completed through Coursera.
@@ -102,15 +106,25 @@ I continue strengthening my frontend development foundation while expanding my f
 My current learning interests include:
 
 Advanced React and Angular concepts
+
 Next.js
+
 Frontend testing
+
 Backend architecture
+
 REST API development
+
 Database design
+
 Full-stack application development
+
 🤝 Let's Connect
+
 LinkedIn: Connect with me
+
 Portfolio: https://fezile-sudo.github.io/Portfolio/
+
 GitHub: @fezile-sudo
 
 I'm interested in opportunities where I can contribute to web development projects, continue growing as a developer, and build practical software solutions.
