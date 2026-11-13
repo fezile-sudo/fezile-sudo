@@ -58,9 +58,12 @@ Live Application
 
 A full-stack e-commerce application featuring product browsing, shopping cart management, wishlists, and checkout functionality.
 
+
 Technologies: React, Node.js, Express.js, PostgreSQL, REST APIs.
 
+
 GitHub Repository
+
 Live Application
 
 3. Feya Clinix
@@ -70,6 +73,7 @@ A clinic management application designed to manage patients, doctors, appointmen
 Technologies: Angular, TypeScript, Angular Material, RxJS, REST APIs.
 
 GitHub Repository
+
 Live Application
 
 4. AltHealth
@@ -81,7 +85,10 @@ Originally developed around UNISA project requirements and subsequently improved
 Technologies: PHP, MySQL, JavaScript, HTML5, CSS3.
 
 GitHub Repository
+
 Live Application
+
+
 🎓 Education & Certifications
 
 Diploma in Information Technology
