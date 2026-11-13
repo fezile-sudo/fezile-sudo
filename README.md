@@ -1,5 +1,7 @@
 Hi, I'm Fezile Gulwa 👋
+
 Frontend & Full-Stack Developer | React | Angular | JavaScript | Node.js
+
 
 I'm a South African developer passionate about building modern, responsive, and practical web applications.
 
